@@ -1,4 +1,4 @@
-<img align="right" src="./assets/elixir-logo.png" width="120" alt="Elixir logo" />
+<img align="right" src="./assets/elixir-logo.png" width="82" hspace="24" alt="Elixir logo" />
 
 `Hello, World!`
 
